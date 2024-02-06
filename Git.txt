@@ -1,0 +1,15 @@
+Git-->is a s/w tool
+Github -->Service
+
+SCM-->Source/Service Control Management
+
+ls command--> dir
+man ls--->manual of ls
+ls-l
+ls-a
+
+git init-->initialiize
+git status-->tell the status
+
+
+git add  _____ -->file name or . means all
